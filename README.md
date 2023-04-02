@@ -9,13 +9,13 @@
 
 - 🔭 Actualmente trabajo en Senerfi [https://www.senerfi.com/](https://www.senerfi.com/)
 
-- 🌱 Actualmente fortaleciendo mis conocimientos en: **Angular**
+- 🌱 Estoy fortaleciendo mis conocimientos en: **Frontend con Angular en Platzi.com**
 
 - 👨‍💻 Mis proyectos publicados en Playstore: [https://play.google.com/store/apps/developer?id=Deving+World](https://play.google.com/store/apps/developer?id=Deving+World)
 
 - 💬 Brindo asesorias sobre: **Android y Excel Avanzado**
 
-- 📫 Cómo Contactarme: [https://www.whatsapp.com/](https://www.wa.me/573188694094)
+- 📫 Cómo Contactarme: [Whatsapp](https://wa.me/573188694094)
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
